@@ -1,5 +1,5 @@
 # labPhase_presentation
-*********************************************************************   Bricolink   **********************************************************************
+*******************************   Bricolink   *******************************
 
 
 __________Travail individuel___________________
@@ -29,7 +29,7 @@ Authentification : JWT (connexion utilisateur/admin)
 
 Design : React-Bootstrap, CSS modules
 
-🛠___________ Fonctionnalités principales___________________________
+___________ Fonctionnalités principales___________________________
 
 Authentification (utilisateur, ouvrier, admin)
 
