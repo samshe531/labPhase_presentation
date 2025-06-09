@@ -1,8 +1,8 @@
 # labPhase_presentation
 *******************************   Bricolink   *******************************
 
-
 __________Travail individuel___________________
+
 Je travaille seul sur ce projet et je souhaite bénéficier de l’accompagnement de mon instructeur tout au long des étapes (planification, architecture, implémentation, test, déploiement).
 
 Bricolink est une application web MERN (MongoDB, Express.js, React.js, Node.js) qui connecte des particuliers ayant des besoins en petits travaux avec des ouvriers/artisans qualifiés.
